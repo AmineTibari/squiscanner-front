@@ -1,7 +1,6 @@
 # SquiScanner — Scanner intelligent de factures
 
 Interface Vue.js 3 pour l'extraction automatique de données de factures en JSON structuré,
-propulsée par l'IA Claude (Anthropic).
 
 ---
 
